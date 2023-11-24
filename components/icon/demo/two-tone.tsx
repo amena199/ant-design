@@ -6,7 +6,7 @@ const App: React.FC = () => (
   <Space>
     <SmileTwoTone />
     <HeartTwoTone twoToneColor="#eb2f96" />
-    <CheckCircleTwoTone twoToneColor="#52c41a" />
+    <CheckCircleTwoTone twoToneColor="#2DA3FF" />
   </Space>
 );
 
